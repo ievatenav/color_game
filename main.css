@@ -73,3 +73,9 @@ button:hover {
     color: white;
     background: steelblue;
 }
+
+@media screen and (max-width: 400px) {
+    #stripe {
+        font-size: 0.85em;
+    }
+}
